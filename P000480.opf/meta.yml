@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6094
   title: བོད་ཀྱི་གནའ་རྩོམ་གཅེས་བསྒྲིགས་
-  volume: ''
+  volume:
+    ae5040d9ff584472930f3ff6bd842920:
+      image_group_id: I1KG6265
+      title: Volume 1 of bod kyi gna' rtsom gces bsgrigs
+      volume_number: 1
+      total_pages: 340
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་གནའ་རྩོམ་གཅེས་བསྒྲིགས་
+  author: ''
+  sku: P000480
+  cover: cover.jpg
+  layers:
+  - pagination
